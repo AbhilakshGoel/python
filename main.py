@@ -1,5 +1,6 @@
 """FIRST PROGRAM"""
 # print("Hello World")
+print("You are Great!")
 
 # """SUM OF TWO NUMBERS"""
 # num1 = input("Please Enter First Number:")
