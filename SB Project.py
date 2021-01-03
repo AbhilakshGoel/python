@@ -1,3 +1,4 @@
+"""This is a Translation of my Small Basic Project which I made when I was Small"""
 import time
 """Abhi Small Basic"""
 fname = input("Enter your First Name: ")
